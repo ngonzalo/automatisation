@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;QualityStream&apos; to &apos;QualityStreamTutorial&apos;" description="Rename resource &apos;QualityStream&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/QualityStream" name="QualityStreamTutorial" stamp="1622887592716" updateReferences="true"/>
-</session>
