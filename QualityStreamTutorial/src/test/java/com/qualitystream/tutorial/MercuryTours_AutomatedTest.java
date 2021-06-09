@@ -51,6 +51,7 @@ public class MercuryTours_AutomatedTest {
 	@Test
 	public void regiterUser() throws InterruptedException {
 		
+		
 		driver.findElement(registerLinkocator).click();
 		Thread.sleep(2000); // tiempo espera carga pagina registro
 		if (driver.findElement(registerpageLocator).isDisplayed()) {
